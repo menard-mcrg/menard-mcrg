@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Menard <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
-<h3 align="center">A aspiring Front-End Developer</h3>
+<h3 align="center">An aspiring Front-End Developer</h3>
 
 <br>
 
